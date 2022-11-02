@@ -1,0 +1,52 @@
+button:hover {
+  background-color: lightgray;
+}
+
+.t-big-text {
+  color: #1E2022
+}
+
+.t-header {
+  background-color: #C9D6DF;
+}
+
+.t-body {
+  background-color: #F0F5F9;
+  color: #1E2022
+}
+
+.t-button {
+  background-color: #52616B;
+  color: #F0F5F9;
+}
+
+.t-sidebar-elem {
+  color: #F0F5F9
+}
+
+.t-sidebar-elem:hover {
+  color: lightgray;
+}
+
+
+
+.t-sidebar {
+  background-color: #52616B;
+}
+
+.t-navs-element {
+  color: #1E2022;
+  text-decoration: underline;
+}
+
+.t-navs-element:hover {
+  color: #1E2022;
+  text-decoration: none;
+}
+
+
+
+.red-block {
+  color: black;
+  background-color: red;
+}

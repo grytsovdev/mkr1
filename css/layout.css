@@ -1,0 +1,42 @@
+.l-align-left {
+  float: left;
+}
+
+.l-align-right {
+  float: right;
+}
+
+.l-align-center {
+  text-align: center;
+}
+
+.l-sidebar {
+  min-height: 100vh;
+}
+
+.l-list-sidebar {
+  display: block;
+  float: left;
+  list-style: none;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+
+
+.l-footer {
+  padding: 2.5rem 0;
+  border-top: .05rem solid #e5e5e5;
+
+}
+
+.l-header {
+  margin: 0;
+  padding: 0;
+}
+
+.l-content {
+  border: .05rem solid #e5e5e5;
+  margin-top: 15px;
+  padding-top: 15px;
+}
